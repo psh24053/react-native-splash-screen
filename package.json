@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "git://github.com/humordancer/react-native-splash-screen.git",
+      "/Users/superhao/Documents/Github/good_craftsman_app/rn"
+    ]
+  ],
+  "_from": "git://github.com/humordancer/react-native-splash-screen.git",
+  "_id": "react-native-splash-screen@git://github.com/humordancer/react-native-splash-screen.git#b24239b7d1f1004d85f8d41026dd3fbd9cf98ae4",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-splash-screen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/humordancer/react-native-splash-screen.git",
+    "rawSpec": "git://github.com/humordancer/react-native-splash-screen.git",
+    "saveSpec": "git://github.com/humordancer/react-native-splash-screen.git",
+    "fetchSpec": "git://github.com/humordancer/react-native-splash-screen.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/humordancer/react-native-splash-screen.git#b24239b7d1f1004d85f8d41026dd3fbd9cf98ae4",
+  "_spec": "git://github.com/humordancer/react-native-splash-screen.git",
+  "_where": "/Users/superhao/Documents/Github/good_craftsman_app/rn",
+  "author": {
+    "name": "crazycodeboy"
+  },
+  "bugs": {
+    "url": "https://github.com/crazycodeboy/react-native-splash-screen/issues"
+  },
+  "description": "A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
+  "homepage": "https://github.com/crazycodeboy/react-native-splash-screen#readme",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react-native-splash-screen",
+    "splash-screen",
+    "splashscreen",
+    "splash",
+    "launch-screen",
+    "launchscreen",
+    "android",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-splash-screen",
+  "peerDependencies": {
+    "react-native": ">=0.57.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazycodeboy/react-native-splash-screen.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.2.0"
+}
